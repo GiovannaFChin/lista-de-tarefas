@@ -1,0 +1,10 @@
+[
+    {
+        "descricao": "arrumar cama",
+        "concluida": true
+    },
+    {
+        "descricao": "estudar",
+        "concluida": false
+    }
+]

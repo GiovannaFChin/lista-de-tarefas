@@ -5,6 +5,7 @@ Este projeto desenvolvido em python é um gerenciador de tarefas com as seguinte
 - Marcar uma tarefa como concluída ou pendente
 - Remover uma tarefa específica/remover todas as tarefas da lista
 - Salvar e carregar as tarefas localmente no arquivo 'tarefas.json
+  
 Ele foi feito com a manipulação de arquivos json, listas e funções em python.
 ## Como usar:
 1. Clone o repositório:
